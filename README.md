@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on building a comprehensive data warehouse using Talend for the Northwind database. The process is divided into two main parts: the Staging Area and the Data Warehouse.
+Unlock the power of data with our comprehensive Talend project aimed at constructing a robust Data Warehouse (DWH) from the renowned Northwind dataset. Divided into two pivotal phases, this project seamlessly integrates data from the Northwind Access Database and the Transactional Database (Northwind) in SQL Server.
 
 ### Staging Area
 
