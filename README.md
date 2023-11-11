@@ -81,6 +81,11 @@ The second part of the project involves building the Data Warehouse. This involv
      ![fact2](https://github.com/3amory99/Building-Northwind-DWH-Using-Talend/blob/master/Output/Screenshot%20(404).png)
 
 
+* Schema
+
+     ![schema](https://github.com/3amory99/Building-Northwind-DWH-Using-Talend/blob/master/Output/Northwind%20Schema.PNG)
+
+
 ## Getting Started
 
 To replicate this project, follow these steps:
