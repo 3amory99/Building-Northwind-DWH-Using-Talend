@@ -16,6 +16,28 @@ In the Staging Area, data is ingested and prepared for further processing. Two p
    - The SQL Server database provides additional transactional data for a more comprehensive data warehouse.
    - Talend is employed to extract relevant data, ensuring consistency and conformity with the overall project requirements.
 
+* Customer
+
+     ![customer](https://github.com/3amory99/Building-Northwind-DWH-Using-Talend/blob/master/Output/Screenshot%20(388).png)
+
+* Employee 
+
+     ![employee](https://github.com/3amory99/Building-Northwind-DWH-Using-Talend/blob/master/Output/Screenshot%20(389).png)
+
+* Product
+
+     ![product](https://github.com/3amory99/Building-Northwind-DWH-Using-Talend/blob/master/Output/Screenshot%20(390).png)
+
+* Order
+
+     ![order](https://github.com/3amory99/Building-Northwind-DWH-Using-Talend/blob/master/Output/Screenshot%20(393).png)
+
+* Order Details
+
+     ![order_details](https://github.com/3amory99/Building-Northwind-DWH-Using-Talend/blob/master/Output/Screenshot%20(394).png)
+
+
+
 ### Data Warehouse
 
 The second part of the project involves building the Data Warehouse. This involves:
