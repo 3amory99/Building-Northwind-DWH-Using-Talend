@@ -55,6 +55,32 @@ The second part of the project involves building the Data Warehouse. This involv
    - Implementing optimization techniques to enhance the performance of the warehouse.
    - Indexing, partitioning, and other strategies are considered for efficient data retrieval.
 
+
+* Customer Dimension
+
+     ![dim_customer](https://github.com/3amory99/Building-Northwind-DWH-Using-Talend/blob/master/Output/Screenshot%20(395).png)
+
+* Employee Dimension
+
+     ![dim_employee](https://github.com/3amory99/Building-Northwind-DWH-Using-Talend/blob/master/Output/Screenshot%20(396).png)
+
+* Product Dimension
+
+     ![dim_product](https://github.com/3amory99/Building-Northwind-DWH-Using-Talend/blob/master/Output/Screenshot%20(397).png)
+
+* Date Dimension
+
+     ![dim_date](https://github.com/3amory99/Building-Northwind-DWH-Using-Talend/blob/master/Output/Screenshot%20(399).png)
+
+* Fact Table 1
+
+     ![fact_1](https://github.com/3amory99/Building-Northwind-DWH-Using-Talend/blob/master/Output/Screenshot%20(402).png)
+
+* Fact Table 2
+
+     ![fact2](https://github.com/3amory99/Building-Northwind-DWH-Using-Talend/blob/master/Output/Screenshot%20(404).png)
+
+
 ## Getting Started
 
 To replicate this project, follow these steps:
