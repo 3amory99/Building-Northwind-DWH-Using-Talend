@@ -1,0 +1,135 @@
+[ {
+  "baseItem" : {
+    "id" : "_8he1oIAWEe6OTsrX4vTpYA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_VT3moIAWEe6OTsrX4vTpYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_qEnRsIAWEe6OTsrX4vTpYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_qEnRsIAWEe6OTsrX4vTpYA - Customer",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_LKvIkIAYEe6OTsrX4vTpYA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_VT3moIAWEe6OTsrX4vTpYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_qEnRsIAWEe6OTsrX4vTpYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_qEnRsIAWEe6OTsrX4vTpYA - Employee",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_N1maEIAdEe6sINFGcOdnDQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_VT3moIAWEe6OTsrX4vTpYA",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Oe5okICHEe69DqnOsh44PQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_VT3moIAWEe6OTsrX4vTpYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_qEnRsIAWEe6OTsrX4vTpYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_VT3moIAWEe6OTsrX4vTpYA - Dim_Date",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VT3moIAWEe6OTsrX4vTpYA - Dim_Employee",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VT3moIAWEe6OTsrX4vTpYA - Dim_Product",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_qEnRsIAWEe6OTsrX4vTpYA - Order",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "__uhnIIAbEe6sINFGcOdnDQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_VT3moIAWEe6OTsrX4vTpYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_qEnRsIAWEe6OTsrX4vTpYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_qEnRsIAWEe6OTsrX4vTpYA - Product",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_moNKsIBiEe6DbJm9tl68PA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_VT3moIAWEe6OTsrX4vTpYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_qEnRsIAWEe6OTsrX4vTpYA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_VT3moIAWEe6OTsrX4vTpYA - Dim_Customer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VT3moIAWEe6OTsrX4vTpYA - Dim_Date",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VT3moIAWEe6OTsrX4vTpYA - Dim_Employee",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_qEnRsIAWEe6OTsrX4vTpYA - Order",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
